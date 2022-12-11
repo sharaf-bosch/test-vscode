@@ -15,7 +15,7 @@ excel.quit()
 image_path = r'C:\Users\HPF1COB\Documents\Anaconda\VS code\Outlook meeting\paste.png'
 html_body = """
     <div>
-        Please review the following report and response your feedback....<br><br>
+        <b>Please review the following report and response your feedback....</b><br><br>
     </div>
     <div>
         <img src={}></img>
